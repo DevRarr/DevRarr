@@ -11,12 +11,11 @@ Full stack hobbyist developer, runs a remote full stack agency, contact for more
 
 ## 📜 Latest blog posts
 
-<!—Glog posts-LIST:START -->
 - [TBC 1](https://dev.to/)
 - [TBC 2](https://dev.to/)
 - [TBC 2](https://dev.to/)
 - [First Open Source project](https://dev.to/)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 🖖 Get in touch
 
